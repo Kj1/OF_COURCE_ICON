@@ -1,0 +1,115 @@
+<graphml>
+  <graph edgedefault="undirected" id="G">
+    <node id="n0">
+		<locationX>69</locationX>
+			<locationY>68</locationY>
+			<colorR>161</colorR>
+			<colorG>161</colorG>
+			<colorB>161</colorB>
+			<colorA>200</colorA>
+			<radius>56.0274</radius>
+		</node>
+    <node id="n1">
+		<locationX>396</locationX>
+			<locationY>56</locationY>
+			<colorR>174</colorR>
+			<colorG>174</colorG>
+			<colorB>174</colorB>
+			<colorA>200</colorA>
+			<radius>48.4521</radius>
+		</node>
+    <node id="n2">
+		<locationX>231</locationX>
+			<locationY>166</locationY>
+			<colorR>209</colorR>
+			<colorG>209</colorG>
+			<colorB>209</colorB>
+			<colorA>200</colorA>
+			<radius>35.9877</radius>
+		</node>
+    <node id="n3">
+		<locationX>228</locationX>
+			<locationY>279</locationY>
+			<colorR>151</colorR>
+			<colorG>151</colorG>
+			<colorB>151</colorB>
+			<colorA>200</colorA>
+			<radius>56.9365</radius>
+		</node>
+    <node id="n4">
+		<locationX>402</locationX>
+			<locationY>242</locationY>
+			<colorR>245</colorR>
+			<colorG>245</colorG>
+			<colorB>245</colorB>
+			<colorA>200</colorA>
+			<radius>63.9062</radius>
+		</node>
+    <node id="n5">
+		<locationX>317</locationX>
+			<locationY>421</locationY>
+			<colorR>247</colorR>
+			<colorG>247</colorG>
+			<colorB>247</colorB>
+			<colorA>200</colorA>
+			<radius>58.4123</radius>
+		</node>
+    <node id="n6">
+		<locationX>591</locationX>
+			<locationY>253</locationY>
+			<colorR>218</colorR>
+			<colorG>218</colorG>
+			<colorB>218</colorB>
+			<colorA>200</colorA>
+			<radius>54.0086</radius>
+		</node>
+    <node id="n7">
+		<locationX>468</locationX>
+			<locationY>596</locationY>
+			<colorR>207</colorR>
+			<colorG>207</colorG>
+			<colorB>207</colorB>
+			<colorA>200</colorA>
+			<radius>66.468</radius>
+		</node>
+    <node id="n8">
+		<locationX>805</locationX>
+			<locationY>257</locationY>
+			<colorR>223</colorR>
+			<colorG>223</colorG>
+			<colorB>223</colorB>
+			<colorA>200</colorA>
+			<radius>43.7901</radius>
+		</node>
+    <node id="n9">
+		<locationX>711</locationX>
+			<locationY>464</locationY>
+			<colorR>149</colorR>
+			<colorG>149</colorG>
+			<colorB>149</colorB>
+			<colorA>200</colorA>
+			<radius>51.9711</radius>
+		</node>
+    <node id="n10">
+		<locationX>864</locationX>
+			<locationY>475</locationY>
+			<colorR>233</colorR>
+			<colorG>233</colorG>
+			<colorB>233</colorB>
+			<colorA>200</colorA>
+			<radius>55.5428</radius>
+		</node>
+    <edge source="n0" target="n2"/>
+    <edge source="n1" target="n2"/>
+    <edge source="n2" target="n3"/>
+    <edge source="n3" target="n5"/>
+    <edge source="n3" target="n4"/>
+    <edge source="n4" target="n6"/>
+    <edge source="n6" target="n5"/>
+    <edge source="n5" target="n7"/>
+    <edge source="n6" target="n8"/>
+    <edge source="n8" target="n7"/>
+    <edge source="n8" target="n9"/>
+    <edge source="n8" target="n10"/>
+  </graph>
+</graphml>
